@@ -487,6 +487,3 @@ CC0-1.0 license
 <div align="center">
 <img src="https://github.com/kuisux/VFX-6102-citybuilder/blob/main/pictures/KuiLogo.png?raw=true" width="150"> <br>
 
-<sub>[created by Joe Harper](https://github.com/JoeHarper-Dev)</sub>
-</div>
-
